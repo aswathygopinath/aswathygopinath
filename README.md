@@ -3,7 +3,7 @@
 
 - 🔭 My first Data Science Project is [Photosorganisation: a Python package to sort and organize your photos](https://pypi.org/project/photosorganisation/)
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projectsng Projects**
+- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
 - 📫 How to reach me **aswathy.gopinath@outlook.com**
 
