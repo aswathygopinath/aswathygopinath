@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswathy</h1>
-<h3 align="center">A passionate data analyst</h3>
+<h3 align="center">A passionate data scientist</h3>
 
 - 🔭 My first Data Science Project is [Photosorganisation: a Python package to sort and organize your photos](https://pypi.org/project/photosorganisation/)
 
